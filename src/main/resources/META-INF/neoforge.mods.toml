@@ -1,0 +1,26 @@
+modId="sonnysupgrades"
+version="0.1.0"
+displayName="Sonny's Upgrades"
+description='''
+Unique and interesting smithing upgrades.
+'''
+license="MIT"
+
+[[mods]]
+modId="sonnysupgrades"
+version="0.1.0"
+displayName="Sonny's Upgrades"
+
+[[dependencies.sonnysupgrades]]
+modId="neoforge"
+type="required"
+versionRange="[26.3,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.sonnysupgrades]]
+modId="minecraft"
+type="required"
+versionRange="[26.3,)"
+ordering="NONE"
+side="BOTH"
